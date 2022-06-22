@@ -19,7 +19,7 @@
   "dependencies": {
     "@babel/plugin-syntax-typescript": "^7.2.0",
     "@dcloudio/types": "^2.2.4",
-    "@dcloudio/uni-app-plus": "^2.0.0-31920210514002",
+    "@dcloudio/uni-app-plus": "^2.0.1-34920220609002",
     "@dcloudio/uni-automator": "^2.0.0-31920210514002",
     "@dcloudio/uni-cli-shared": "^2.0.0-31920210514002",
     "@dcloudio/uni-h5": "^2.0.0-31920210514002",
