@@ -21,6 +21,7 @@
     "@dcloudio/types": "^3.0.6",
     "@dcloudio/uni-app-plus": "^2.0.1-34920220609002",
     "@dcloudio/uni-automator": "^2.0.1-34920220609002",
+    "@dcloudio/uni-cli-i18n": "^2.0.1-34920220609002",
     "@dcloudio/uni-cli-shared": "^2.0.1-34920220609002",
     "@dcloudio/uni-h5": "^2.0.1-34920220609002",
     "@dcloudio/uni-i18n": "^2.0.1-34920220609002",
